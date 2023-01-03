@@ -1,0 +1,274 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_intertitial_applovin": "9a5e39a63b89826e",
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "backup_native_for_admob_applovin":"0a854f7f60982fe1",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"9a5e39a63b89826e",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+          {
+      "title": "Palakad To Kovai Bus Hd Skin",
+      "image": "https://www.mods4u.in/ets2/img/2020/Tnstc-Palak1671177654-ETS2-WWW-MODS4U-IN-main.png",
+      "link_mods": "https://www.mods4u.in/ets2/details/?id=13032"
+    },
+    {
+      "title": "KULIT BUNTY BUS",
+      "image": "https://www.mods4u.in/bsi/img/2022/BUNTY-BUS-S1671280507-BUSSID-WWW-MODS4U-IN-1.jpeg",
+      "link_mods": "https://www.mods4u.in/bsi/details/?id=4336"
+    },
+    {
+      "title": "Bajrang Teavels Full HD",
+      "image": "https://www.mods4u.in/bsi/img/2022/Bajrang-Tea1671093511-BUSSID-WWW-MODS4U-IN-3.jpeg",
+      "link_mods": "https://www.mods4u.in/bsi/details/?id=4332"
+    },
+    {
+      "title": "Hrtc Acgl Rebuild Bus Mod",
+      "image": "https://www.mods4u.in/bsi/img/2022/Hrtc-Acgl-R1660648929-BUSSID-WWW-MODS4U-IN-main.jpg",
+      "link_mods": "https://www.mods4u.in/bsi/details/?id=3789"
+    },
+    {
+      "title": "Tanduk India ",
+      "image": "https://www.mods4u.in/bsi/images/48415264_1915440868508920_2382511405262700544_n.jpg",
+      "link_mods": "https://www.mods4u.in/bsi/details/?id=3"
+    },
+    {
+      "title": "Mod Bus Dream Coach",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1621.jpg",
+      "link_mods": "https://www.mediafire.com/file/o16qljrc3a92vp1/DREAM_COACH.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/v1svxidgzl3asmv/STJ_Draka_Dream_Coach_by_Blahbloh.png"
+    },
+    {
+      "title": "Mod Super High Decker Avante",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1620.jpg",
+      "link_mods": "https://www.mediafire.com/file/yjkvhpvn9rnoljf/AVANTE.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/g8aetbml8xras10/Avante_SHD_STJ_DRAKA_By_Jeffry_Bussid.png"
+    },
+    {
+      "title": "Mod Jetbus 2 Hino RK",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1622.jpg",
+      "link_mods": "https://www.mediafire.com/file/q1pba2h7c3f9cs1/JB2_HINO_RK.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/s5d8vdv96sqggce/IGUAZU_V.10_FREE_USER.png"
+    },
+    {
+      "title": "Mod Jetbus 2+ SHD Hino RK",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1623.jpg",
+      "link_mods": "https://www.mediafire.com/file/1ps9e7vbmu17a0t/JB2%252B_SHD_HINO_RK.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/tkur3vgf7i3jogw/STJ_Iguazu_SHD_by_Blahbloh.png"
+    },
+    {
+      "title": "Mod Jetbus 3 MHD Scania",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1624.jpg",
+      "link_mods": "https://www.mediafire.com/file/9bpbwtegpf1n2t7/jb3_mhd_scaniaHANA_HANIFAH.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/n6moxfyl3o0ho3d/Stj-070-CULLEN%25282%2529.png/file"
+    },
+    {
+      "title": "Mod Jetbus 3+ Hino RK",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1626.jpg",
+      "link_mods": "https://www.mediafire.com/file/anrycqz1twin7na/JB3%252B_HINO_RK.bussidmod/file"
+    },
+    {
+      "title": "Mod Jetbus 3+ Scania K360",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1627.jpg",
+      "link_mods": "https://www.mediafire.com/file/vm4dqwnpxfqelfp/JB3%252B_SCANIA_K360.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/zi1fytmcq3h1ecg/JENNA_STJ_071_NON_BONEKA_JB3_SCANIA_K_360_IB_GEN2_BY_GARASI_TUBE.png"
+    },
+    {
+      "title": "Mod Jetbus 3+ SHD Scania Non Facelift",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1628.jpg",
+      "link_mods": "https://www.mediafire.com/file/6zh8le9uq2vlldp/JB3%252B_SCANIA_NON_FACELIFT.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/od330ij70wj56yt/STJ_RHUDOUR_MODJB3%252B_LIVBYSIR.png"
+    },
+    {
+      "title": "Mod JB3+ SHD Hino RK",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1625.jpg",
+      "link_mods": "https://www.mediafire.com/file/z5o6k8e4cg0tl4d/JB3%252B_SHD_HINO_RK.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/lxmtb2sqosixyqn/JB3_HINO_PINTU_TENGAH_-_STJ_VIOLA.png"
+    },
+    {
+      "title": "Mod JB3+ SHD Non Facelift",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1629.jpg",
+      "link_mods": "https://www.mediafire.com/file/9vv5k3cdfsxc25y/JB3%252B_SHD_NON_FACELIFT.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/rxctdcmmxjoyb2h/Libery_Black_pink_Hino_As__Fm_by_Nb_livery_%2526_Cah_Ndoreng_%25281%2529.png"
+    },
+    {
+      "title": "Mod Jetbus 3+ Tronton Volvo B11R",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1630.jpg",
+      "link_mods": "https://www.mediafire.com/file/it9l5288rhz77xz/JB3%252B_TRONTON_VOLVO_B11R.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/m06o3ve66fekaue/STJ_ARVOOT.png"
+    },
+    {
+      "title": "Mod Jetbus 3+ Ultra High Decker",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1631.jpg",
+      "link_mods": "https://www.mediafire.com/file/lffqbgt6vd1xxrx/JB3%252B_UHD.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/frotgvk0l57qs7v/RUBYA_098_BONEKA_NEW_STIKER_JB3_UH_MH_BY_GARASITUBE.png"
+    },
+    {
+      "title": "Mod Ultra High Decker",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1632.jpg",
+      "link_mods": "https://www.mediafire.com/file/n0df5h0r4dpnxy9/UHD.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/vml9dx4zy19whmb/STJ_Anno_UHD_Mercy_Blahbloh.png"
+    },
+    {
+      "title": "Mod SR2 Xtra High Decker",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1633.jpg",
+      "link_mods": "https://www.mediafire.com/file/zadcjvxbcykddzu/SR2_XHD.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/qajaixxp83v13g8/STJ_MAURO_SR2_by_Hanafi_Hardiyan.png"
+    },
+    {
+      "title": "Mod SR2 XHD Tronton K410",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1634.jpg",
+      "link_mods": "https://www.mediafire.com/file/feqmgxf7hwf5yux/UMP_Varian_2_-_SR2_TRONTON_K410.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/vc0u0166veswx1a/DRAKA_STJ_NEW_STROBO_ALCOA_SR2_XHD_PRIME_TRONTON_UMP_BY_GARASI_TUBE.png"
+    },
+    {
+      "title": "Mod SR2 XHD Prime Tronton",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1635-768x355.jpg",
+      "link_mods": "https://www.mediafire.com/file/ggh2ksictg6jh93/%255B_2F_%255D_SR2_XHD_Prime_TRONTON_PAKE_WINGLET_BY_CORELAV_VIVA_VARIAN_SCANIA.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/kouj70vb4nuyv1s/DRAKA_STJ_NEW_STIKER_STROBO_SR2_XHD_PRIME_TRONTON_CORELAV_VIVA_BY_GARASI_TUBE.png"
+    },
+    {
+      "title": "Mod SR2 XDD RSM Winglet",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1636.jpg",
+      "link_mods": "https://www.mediafire.com/file/52lxe2lntmi3ko6/MOD_SR2_XDD_RSM_WINGLET.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/mtqj145lyb0pezn/AG-_stj_sr2_xdd_rsm_by_Andesta.png"
+    },
+    {
+      "title": "Mod SR2 XDD Ellbrush",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/320.jpg",
+      "link_mods": "https://www.mediafire.com/file/52lxe2lntmi3ko6/MOD_SR2_XDD_RSM_WINGLET.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/n8xn8c4a55x7vkj/AG-Xdd_rsm_nm_stj_By_Andesta.png"
+    },
+    {
+      "title": "Mod Bus Ceper SHD Sudiro Tungga Jaya",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/002_compressed-1.jpg",
+      "link_mods": "https://www.mediafire.com/file/8wn8jzw6ieogla1/sr2_racing_ceper_%255Bsegitekno.com%255D.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/5753hvsoiejtcp6/STJ_GANTEY.png"
+    },
+    {
+      "title": "Mod Bus Ceper Sempati Star jb3+ Full Anim",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/003_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/94v8nfztophe6p4/1._JB3%252B_TRONTON_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/5rxoww2i0z8d12v/1._Sempati_Star_JB3%252B_Tronton_by_Blahbloh.png"
+    },
+    {
+      "title": "Mod Bussid Po Haryanto Ceper",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/004_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/ttkyk2fhztrki7q/1._JB2%252B_HINO_RK8_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/q0ier57zx8zlkjk/1.%252BHr%252B023%252BSensation%252BJB2%252Bby%252BBlahbloh.png"
+    },
+    {
+      "title": "Bus Scania Ceper Bussid",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/005_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/6qmb5889x9tfix6/9._SCORPION_KING_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/xpvubsrikvmxa9m/9._BEJEU_RAINBOW_BY_OKIN_HAPPIER.png/file"
+    },
+    {
+      "title": "Bus SR 2 STJ SHD",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/006_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/me8xycddc3z4e5p/1.sr2fc_bagasi_full.bussidmod/file"
+    },
+    {
+      "title": "Mod Bus ALS Scania Ceper Full anim",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/007_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/wmg1yz4bdcpdjqn/JB2_SHD_TRONTON_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/0nnvrt15cacyvqg/ALS_JB2_SHD_SCANIA_TRONTON_By_GARASITUBE.png"
+    },
+    {
+      "title": "Bus PO Haryanto Bussid JB3 Full strobo",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/008_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/g4k5a2yangs6e1j/JB3%252B_FULL_KEJUTAN_haryanto_ceper.bussidmod/file"
+    },
+    {
+      "title": "Mod bussid rosalia indah jetbus 3",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/009_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/7jiiubpauwtbp8l/Mod_Bus_JB3_Rosalia_Indah.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/3t3revm4tu3ko7x/Rosalia_indah_by_Hanafi_Hardiyan.png"
+    },
+    {
+      "title": "Mod bussid Bus Ceper JB3 Santoso",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/010_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/kapr2ubyysqlg25/JB3_SHD_Velg_Racing_santoso.bussidvehicle/file",
+      "link_livery": "https://www.mediafire.com/view/lv27qb2i27eqq3s/Santoso.png"
+    },
+    {
+      "title": "Mod Bus Ceper Evolander tronton",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/011_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/i2ak75v96f5p5i2/evolander_wheeldop_ceper.bussidvehicle/file"
+    },
+    {
+      "title": "Mod bussid Bussid Bus SR2 Racing Avenger",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/012_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/38yhnho8ul4dyu0/avenger.png"
+    },
+    {
+      "title": "Mod bussid ceper SR2 merah api",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/013_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/jzc80mtqbu4al33/1_merah_api.png"
+    },
+    {
+      "title": "Mod ceper Bus SR2 Keren Strobo",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/014_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/9l0hjw03gakav5p/2_pink.png"
+    },
+    {
+      "title": "Bus bussid ceper SR2 Racing Hijau",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/015_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/yccfeqgplej0yf9/ijo.png"
+    },
+    {
+      "title": "Mod Bus simulator bus ceper SR2 keren",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/016_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/30o2w6nv9dy416v/biru_hitam_putih.png"
+    },
+    {
+      "title": "Bus ceper SR2 ungu neon keren",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/017_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/3adys9pcnwb18v9/ungu_keren_mobil.png"
+    },
+    {
+      "title": "Mod bus SR2 ceper hitam kuning",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/018_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/sp3pjxl8i7r1bm1/hitam_kuning.png"
+    },
+    {
+      "title": "Bus Keren Merah Hitam Hijau ceper SR2",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/019_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/e3oipuu09fxdvh8/hitam_merah_hijau.png"
+    },
+    {
+      "title": "Mod bussid ceper SR2 Hitam kuning geometris",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/020_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/icceii58a4vz39g/sr2_black_list_kuning.png"
+    }
+  ]
+}
