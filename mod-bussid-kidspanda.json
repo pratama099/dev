@@ -1,14 +1,15 @@
-{ "Ads": [
+{ "Ads": 
+   [
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/10331737120",
-      "main_ads_intertitial_applovin": "fc834f9cd26365c1",
-      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
-      "backup_native_for_admob_applovin":"0a854f7f60982fe10",
+      "main_ads_intertitial":"ca-app-pub-6818658951001004/9390419339",
+      "main_ads_intertitial_applovin": "e5ab76ad7dd5df19",
+      "main_native_for_admob_applovin":"ca-app-pub-6818658951001004/1676064279",
+      "backup_native_for_admob_applovin":"c1f3107c459495d6",
       "backup_ads_banner":"0000000000",
-      "backup_ads_intertitial":"fc834f9cd26365c1",
+      "backup_ads_intertitial":"e5ab76ad7dd5df19",
       "interval_intertitial": 0,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -27,7 +28,7 @@
   ],
  "DATA":
   [
-         {
+    {
       "title": "Mod Bus Dream Coach",
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1621.jpg",
       "link_mods": "https://www.mediafire.com/file/o16qljrc3a92vp1/DREAM_COACH.bussidmod/file",
@@ -135,5 +136,6 @@
       "link_mods": "https://www.mediafire.com/file/52lxe2lntmi3ko6/MOD_SR2_XDD_RSM_WINGLET.bussidmod/file",
       "link_livery": "https://www.mediafire.com/view/n8xn8c4a55x7vkj/AG-Xdd_rsm_nm_stj_By_Andesta.png"
     }
-}
+	
   ]
+}
