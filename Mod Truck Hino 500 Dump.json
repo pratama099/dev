@@ -1,0 +1,407 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_intertitial_applovin": "9a5e39a63b89826e",
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "backup_native_for_admob_applovin":"0a854f7f60982fe1",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"9a5e39a63b89826e",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+         {
+      "title": "Mod Truck Modif Ceper Full Anim",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1770.jpg",
+      "link_mods": "https://www.mediafire.com/file/rmk3nqn888wz4r8/canter_86_budesign.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/2a6mx7my9m5fkm2/canter_86.png"
+    },
+    {
+      "title": "Mod Bussid Truck Ceper Canter Treding Topic",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/026_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/hpcaz2iqtbv9qe8/mod_trending_topic_budesign.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/fbnme322mxrh664/LIVERY_TRENDING_TOPIC_BY_TONY_05_ID.png"
+    },
+    {
+      "title": "Mod truck Ceper sang Radja",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/027_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/hpcaz2iqtbv9qe8/mod_trending_topic_budesign.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/cvtgvecluxs6r14/BISMILLAH_SANG_RADJA_SQUAD_6_BLACK.png"
+    },
+    {
+      "title": "Mod truck ceper Insting",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/028_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/hpcaz2iqtbv9qe8/mod_trending_topic_budesign.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/dgoas63sbeiwnti/livery_Insting_by_fiqri_projects_mod_trending_topik_budesign.png"
+    },
+    {
+      "title": "Mod bussid terbaru truck ceper T.T white",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/029_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/hpcaz2iqtbv9qe8/mod_trending_topic_budesign.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/nqmgvr7yzgbqayw/T.T_WHITE_BUDESIGN_DBC_DSGN.png"
+    },
+    {
+      "title": "Mod truck bussid contes ceper mocca",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/030_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/hpcaz2iqtbv9qe8/mod_trending_topic_budesign.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/cakjfc8aubhfmqj/LIVERY__MOCCA__TRENDING_TOPIC_BUDESIGN_%252C_BY_DAVID.png"
+    },
+    {
+      "title": "Mod truck ceper slowly terbaru",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/031_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/hpcaz2iqtbv9qe8/mod_trending_topic_budesign.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/rv992a9a2c4gfrc/SLOWLY_By_Dandie64_%2528R_Tinggi%2529.png"
+    },
+    {
+      "title": "Mod Eleanora Fambos Concept",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1769.jpg",
+      "link_mods": "https://www.mediafire.com/file/3levqo2ec94fjcs/Eleanora_V1_Fam8os.bussidmod/file"
+    },
+    {
+      "title": "Mod Wahyu Abadi Ceper",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1768.jpg",
+      "link_mods": "https://www.mediafire.com/file/sdgtzlff6g56cw1/CANTER_WAHYU_ABADI_BAN_TIPIS_BUDESIGN.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/9mk7sqcuhe3kszl/TERPAL_SPONGBOB.png"
+    },
+    {
+      "title": "Mod Canter Anim",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1771.jpg",
+      "link_mods": "https://www.mediafire.com/file/sdgtzlff6g56cw1/CANTER_WAHYU_ABADI_BAN_TIPIS_BUDESIGN.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/wzaenb3pae4sino/itasha_by_rg_design.png"
+    },
+    {
+      "title": "Truck Canter Box Balap",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/10/Canter-Box-Balap.jpg",
+      "link_mods": "https://dl.modbussid.co.id/3mh",
+      "link_livery": "https://dl.modbussid.co.id/3mi"
+    },
+    {
+      "title": "Truck Tua Mack Amerika",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Tua-Mack-Amerika.png",
+      "link_mods": "https://dl.modbussid.co.id/3ge"
+    },
+    {
+      "title": "Peterbilt Truck",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/10/Peterbilt-Truck.jpg",
+      "link_mods": "https://dl.modbussid.co.id/8yx",
+      "link_livery": "https://dl.modbussid.co.id/8yy"
+    },
+    {
+      "title": "Monster Truck Seventy Indonesia",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
+      "link_mods": "https://dl.modbussid.co.id/6q6"
+    },
+    {
+      "title": "Truck Canter Muatan Sound System Riswanda",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-Canter-Muatan-Sound-System-Riswanda.jpg",
+      "link_mods": "https://www.mediafire.com/file/35ruz0rcd09kv2y/Mod_no_pw.7z/file"
+    },
+    {
+      "title": "Truck HINO 500 Angkut Sound System",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-HINO-500-Angkut-Sound-System.jpg",
+      "link_mods": "https://www.mediafire.com/file/uth8pmkyxuxyasi/Truck_Hino_500_Angkut_Sound.bussidmod/file"
+    },
+    {
+      "title": "Truck Thong Thong Klek Sound System",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-Thong-Thong-Klek-Sound-System.jpg",
+      "link_mods": "https://www.mediafire.com/file/vs9mof9p9345ot9/Truk_Thong_Thong_Klek_Varian_DJ_Sound_System_by_Andreas_R35.rar/file"
+    },
+    {
+      "title": "Truck Canter TE Sound",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-Canter-TE-Sound.jpg",
+      "link_mods": "https://www.mediafire.com/file/zfy06npcd8hfhjm/CANTER_TE_SOUND%255BMOD_BUSSID%255D.bussidvehicle/file"
+    },
+    {
+      "title": "Truck Canter Angkut Sound",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-Canter-Angkut-Sound.jpg",
+      "link_mods": "https://www.mediafire.com/file/gc5glo1ot72p6j1/MOD_CANTER_ANKUT_SOUND_%2528modbussid%2529.bussidvehicle/file"
+    },
+    {
+      "title": "Truck Canter Muatan Sound System LED",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-Canter-Muatan-Sound-System-LED.jpg",
+      "link_mods": "https://www.mediafire.com/file/eevu0edcziy0e6b/Truck_Muatan_Sound_System_LED%252B%252B_by_Andreas_R35_V2.rar/file"
+    },
+    {
+      "title": "HINO 500 NG HSD ft Andreas 35",
+      "image": "https://www.ulingame.com/wp-content/uploads/HINO-500-NG-HSD-ft-Andreas-35.jpg",
+      "link_mods": "https://www.mediafire.com/file/59qs6qshey1s0u5/Hino_500_NG_HSD_ft_Andreas_R35_Strom_Edtion.rar/file"
+    },
+    {
+      "title": "Mod Bussid Truck Canter Oleng",
+      "image": "https://arbaswedan.id/wp-content/uploads/2022/11/Download-Mod-Bussid-Truck-Canter-Oleng-768x432.jpg"
+    },
+    {
+      "title": "Truck Canter Terpal Segitiga",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-Terpal-Segitiga.jpg",
+      "link_mods": "https://www.mediafire.com/file/zfplzeixi830dqf/Mod_Truck_Canter_Terpal_Segitiga.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/t9xmcq29lnceh0d/Mod_Truck_Canter_Terpal_Segitiga.png"
+    },
+    {
+      "title": "Truk Canter Oleng",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truk-Canter-Oleng.jpg",
+      "link_mods": "https://www.mediafire.com/file/iaoh8fp1quhm73q/Mod_Truk_Canter_Oleng-Gsmtrik.bussidvehicle/file",
+      "link_livery": "https://www.mediafire.com/view/cpye5ctst88da90/Livery_Truk_Canter_Oleng-Gsmtrik.png"
+    },
+    {
+      "title": "Truck Canter Cabe",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-Cabe.jpg",
+      "link_mods": "https://www.mediafire.com/file/fuyszjhs0cunykc/Mod_Truck_Canter_Cabe_-_Gsmtrik.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/val67spaumjuhpg/Livery_Truck_Canter_Cabe_-_Gsmtrik.png"
+    },
+    {
+      "title": "Truck Canter Full Strobo",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-Full-Strobo.jpg",
+      "link_mods": "https://www.mediafire.com/file/vg1ub89wjjxk1xd/Mod_Truck_Canter_Full_Strobo_-_Gsmtrik.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/5wa6c82fo79k9sd/Livery_Truck_Canter_Full_Strobo_-_Gsmtrik.png"
+    },
+    {
+      "title": "Truck Canter Terpal Wahyu Abadi",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-Terpal-Wahyu-Abadi.jpg",
+      "link_mods": "https://www.mediafire.com/file/i74lcezcx5c4m3i/3.+WAHYU+ABADI.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/file/qq0euetd1dhugoc/3.+Livery+wahyu+abadI+fam8os+by+RGDESIGN..png"
+    },
+    {
+      "title": "Truck Canter HM Cabe Bos Galak",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-HM-Cabe-Bos-Galak.jpg",
+      "link_mods": "https://www.mediafire.com/file/7whnpmou04hyhxp/Mod_Truck_Center_HM_Cabe_Bos_Galak_-_Gsmtrik.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/k7ikqzz6007rk06/Livery_Truck_Center_HM_Cabe_Bos_Galak_-_Gsmtrik.png"
+    },
+    {
+      "title": "Truck Center Cabe Full Animasi Bos Cilik",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Center-Cabe-Full-Animasi-Bos-Cilik.jpg",
+      "link_mods": "https://www.mediafire.com/file/7whnpmou04hyhxp/Mod_Truck_Center_HM_Cabe_Bos_Galak_-_Gsmtrik.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/k7ikqzz6007rk06/Livery_Truck_Center_HM_Cabe_Bos_Galak_-_Gsmtrik.png"
+    },
+    {
+      "title": "Truck Canter Hino",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-Hino.jpg",
+      "link_mods": "https://www.mediafire.com/file/4f1sijwnvf5z0m8/Mod_Truck_Canter_Hino_-_Gsmtrik.bussidmod/file"
+    },
+    {
+      "title": "Truck Canter Muatan Sawit Antobolo",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-Muatan-Sawit-Antobolo.jpg",
+      "link_mods": "https://www.mediafire.com/file/ryhokuwek5334cq/9._ANTOBOLLO.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/m8850fx7llb1mo7/9._Livery_Antobolo_by_RG_DESIGN.png"
+    },
+    {
+      "title": "Truck Canter NMR71 Mbois Full Strobo",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-NMR71-Mbois-Full-Strobo.jpg",
+      "link_mods": "https://www.mediafire.com/file/13hpdg1rqt6g7mb/Mod_Truck_Canter_NMR71_Mboid_Full_Strobo_-_Gsmtrik.bussidmod/file"
+    },
+    {
+      "title": "Truck Canter Cabe Mukhlas",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-Cabe-Mukhlas.jpg",
+      "link_mods": "https://www.mediafire.com/file/t558z5fe1i05i5a/Mod_Truck_Canter_Cabe_Mukhlas.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/4jyhnaxd0b040qx/Livery_Truck_Canter_Cabe_Mukhlas.png"
+    },
+    {
+      "title": "Truck Canter New Calista",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-New-Calista.jpg",
+      "link_mods": "https://www.mediafire.com/file/iy27l0d5eesf1zb/Mod_Truck_Canter_New_Calista_-_Gsmtrik.bussidmod/file"
+    },
+    {
+      "title": "Truck Center Rebecca ON Fire HM Cabe",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Center-Rebecca-ON-Fire-HM-Cabe.jpg",
+      "link_mods": "https://www.mediafire.com/file/uelt813ku5jpitj/truck_rebecca_on_fire_hm_cabe.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/fxsy6v8lqjf23xg/ONFIRE_HM_CABE_MUKHLAS_%2524.png"
+    },
+    {
+      "title": "Hino 500 Tribal Tangki",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1952.jpg",
+      "link_mods": "https://www.mediafire.com/file/l0f8w04fxc0xzpv/HINO+TRIBAL+TANGKI+SHARE+BY+JODS+TV.zip/file"
+    },
+    {
+      "title": "Hino 500 Dump",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1953.jpg",
+      "link_mods": "https://www.mediafire.com/file/j6sigrbx70k7g72/HINO+500+DUMP+SHARE+BY+JODS+TV.zip/file"
+    },
+    {
+      "title": "Hino 500 Standar",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1954.jpg",
+      "link_mods": "https://www.mediafire.com/file/iwn20g7b2yl0te9/HINO+500+SHARE+BY+JODS+TV.zip/file"
+    },
+    {
+      "title": "Hino 500 Full Muatan",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1955.jpg",
+      "link_mods": "https://www.mediafire.com/file/4eera2lqmcuurgr/HINO+500+FULL+MUATAN+SHARE+BY+JODS+TV.zip/file"
+    },
+    {
+      "title": "Hino 500 Tangki",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1956.jpg",
+      "link_mods": "https://www.mediafire.com/file/6p7j2f221hwn4ex/HINO+500+TANGKI+SHARE+BY+JODS+TV.zip/file"
+    },
+    {
+      "title": "Hino 500 Tronton",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1957.jpg",
+      "link_mods": "https://www.mediafire.com/file/h2d9pqh26uyzv0f/HINO+500+TRONTON+SHARE+BY+JODS+TV.zip/file"
+    },
+    {
+      "title": "Hino 500 Bak",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1958.jpg",
+      "link_mods": "https://www.mediafire.com/file/ula45yo6ed2ongc/HINOOO+SHARE+BY+JODS+TV.zip/file"
+    },
+    {
+      "title": "Hino 500 Box Jaya Express",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1959.jpg",
+      "link_mods": "https://www.mediafire.com/file/yf5xywrrs2qgt47/HINO+BOX+3.zip/file"
+    },
+    {
+      "title": "Hino 500 Tam Cargo",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1960.jpg",
+      "link_mods": "https://www.mediafire.com/file/iloiaf1zyz0clha/HINO+BOX+2.zip/file"
+    },
+    {
+      "title": "Hino 500 PT. Siba Surya",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1961.jpg",
+      "link_mods": "https://www.mediafire.com/file/4uq1npf3ugf63xh/HINO+BOX+1.zip/file"
+    },
+    {
+      "title": "Mod Bussid Hino Tronton Ceper",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/782.jpg",
+      "link_mods": "https://www.mediafire.com/file/u2bz6ud5vywjrav/Hino_500_Tronton_by_Jods_TV.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/rdfpyvanxt5p9ol/Hino_500_Tronton.png"
+    },
+    {
+      "title": "Hino Trailer Pengangkut Mobil",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/758.jpg",
+      "link_mods": "https://www.mediafire.com/file/x7qwnp5j4k8bqle/HINO_TRAILER_V2_BUDESIGN.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/kvuvjkgjzgmo2i5/hinopink.png"
+    },
+    {
+      "title": "Hino Dump Original Angkut",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/764.jpg",
+      "link_mods": "https://www.mediafire.com/file/y44i6otiev894ub/Hino_Dump_by_Jods_TV.bussidmod/file"
+    },
+    {
+      "title": "Mod Bussid Hino 500 Muatan Pipa Beton",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/780.jpg",
+      "link_mods": "https://www.mediafire.com/file/sngmpbznqyq6tx5/Hino_500_Muatan_Pipa_Beton_by_Ghoni_Rk.bussidmod/file"
+    },
+    {
+      "title": "Hino Terpal No Topi",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/766.jpg",
+      "link_mods": "https://www.mediafire.com/file/3l137i7q6aa5tf2/Hino_Tribal_Terpal_No_Topi.bussidmod/file"
+    },
+    {
+      "title": "Hino Engkel 500",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/767.jpg",
+      "link_mods": "https://www.mediafire.com/file/gtoigi9htg8bghx/Truck_Engkel_Hino_500_NG_HSD.bussidmod/file"
+    },
+    {
+      "title": "Hino 500 Muatan Pipa",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/768.jpg",
+      "link_mods": "https://www.mediafire.com/file/gnk6g0baroh1f8n/Truck_Hino_500_Angkut_Pipa.bussidvehicle/file"
+    },
+    {
+      "title": "Hino 500 Pengangkut Motor",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/769.jpg",
+      "link_mods": "https://www.mediafire.com/file/00460q1sx607e1i/Truck_Hino_500NG_Muatan_Motor.bussidmod/file"
+    },
+    {
+      "title": "Hino 500 NG Muatan Semen",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/770.jpg",
+      "link_mods": "https://www.mediafire.com/file/sibjyfrxpfwruor/Truck_Hino_500NG_Muatan_Semen.bussidmod/file"
+    },
+    {
+      "title": "Hino 500 NG Muatan Sound System",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/771.jpg",
+      "link_mods": "https://www.mediafire.com/file/ahxj084rdrh0959/Truck_Hino_500NG_Muatan_Sound_System.bussidmod/file"
+    },
+    {
+      "title": "Hino Terpal Oren Full Muatan",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/772.jpg",
+      "link_mods": "https://www.mediafire.com/file/zljodl2u8t1t1yf/Truck_Hino_500NG_Terpal_Oren.bussidvehicle/file"
+    },
+    {
+      "title": "Hino L Muatan Semen",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/774.jpg",
+      "link_mods": "https://www.mediafire.com/file/wu05xb0ctuboje5/Truck_Hino_Losbak_Muat_Semen.bussidmod/file"
+    },
+    {
+      "title": "Hino 500 Modifikasi Bumper",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/777.jpg",
+      "link_mods": "https://www.mediafire.com/file/naombizdatxbvny/Truck_Hino_500_Bumper_Modif_by_HSD_Codit_Aldovadewa.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/w57lmyvga5qd0mf/Truck_Hino_500_Bumper_Modif_by_HSD_Codit_Aldovadewa.png"
+    },
+    {
+      "title": "Hino Full Muatan Full Modif Keren",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/778.jpg",
+      "link_mods": "https://www.mediafire.com/file/0efjljq66ko13e0/Hino_500_Full_Muatan_by_Jods_TV.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/9ahcqvut7oyuz2g/Hino_500_Full_Muatan.png"
+    },
+    {
+      "title": "Hino 8 Roda Panjang Tronton",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/747.jpg",
+      "link_mods": "https://www.mediafire.com/file/xo0ksdnrpszpbdg/Fuso_Tribal_by_Mas_Gilang_ft_Andreas_R35.bussidvehicle/file"
+    },
+    {
+      "title": "Hino 500 Tangki Pertamina",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/321.jpg",
+      "link_mods": "https://kuotabiasa.com/989?pt=WWxneFUwMXZNbE5EVjJsWWIwaHliREJNZGxKVlFUMDlPdVdnSnI4WFEwazZCRElHemRKTXFIVT0%3D",
+      "link_livery": "https://kuotabiasa.com/988?pt=VFd3dmFITlFjMVpyU2tKRE0weDVSMEZLVFN0SlFUMDlPbFd1SEFVSVBzMXl4dVJmMm1laVc4Yz0%3D"
+    },
+    {
+      "title": "Hino 700 Kosongan Tanpa Bak",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/763.jpg",
+      "link_mods": "https://www.mediafire.com/file/4hf0w1qf8ga6oj8/Hino_700_by_MAH_Channel.bussidmod/file"
+    },
+    {
+      "title": "Hino Lohan Purwo Logistik Muatan Excavator",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/765.jpg",
+      "link_mods": "https://www.mediafire.com/file/orf1ukr6df7kvme/hino_lohan_purwo_logistic_cvt_WSP_excavator.bussidvehicle/file"
+    },
+    {
+      "title": "Hino Lohan Muatan Kayu",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/773.jpg",
+      "link_mods": "https://www.mediafire.com/file/uoy1pmowwx7f24w/Truck_Hino_Lohan_Muatan_Kayu.bussidvehicle/file"
+    },
+    {
+      "title": "Hino Provia Box Livery terbaik",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/775.jpg",
+      "link_mods": "https://www.mediafire.com/file/ix15fbise8j3eui/Truck_Hino_Profia_Box.bussidmod/file"
+    },
+    {
+      "title": "Hino 700 Provia Muatan Tank",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/776.jpg",
+      "link_mods": "https://www.mediafire.com/file/ne2mbsjukuu3dj8/Truck_Hino_Profia_Tank.bussidmod/file"
+    },
+    {
+      "title": "Hino Muatan Batu Bara Livery Keren",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/779.jpg",
+      "link_mods": "https://www.mediafire.com/file/h1hqpn9m0s2qxby/Hino_Dump_Muatan_batubara_by_Garasi_SMC.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/zd4f5n6eynrufmt/Predator_by_Garasi_SMC.png"
+    },
+    {
+      "title": "Hino 700 Box",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1881.jpg",
+      "link_mods": "https://www.mediafire.com/file/pxpk124ak9zmt77/Hino_700_Peti_Kemas_MAH_Channel.zip/file"
+    },
+    {
+      "title": "Hino 700 Tangki",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1883.jpg",
+      "link_mods": "https://www.mediafire.com/file/x45aonzua1ke0hi/Hino_700_Tangki_MAH_Channel.zip/file"
+    },
+    {
+      "title": " Hino 700",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1962.jpg",
+      "link_mods": "https://www.mediafire.com/file/tix2b0o8ey64dpi/Hino+700+by+MAH+Channel.bussidmod/file"
+    }
+  ]
+}
