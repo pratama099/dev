@@ -60,7 +60,8 @@
     {
       "title": "Mod Jetbus 3+ Hino RK",
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1626.jpg",
-      "link_mods": "https://www.mediafire.com/file/anrycqz1twin7na/JB3%252B_HINO_RK.bussidmod/file"
+      "link_mods": "https://www.mediafire.com/file/anrycqz1twin7na/JB3%252B_HINO_RK.bussidmod/file",
+      "link_livery": ""
     },
     {
       "title": "Mod Jetbus 3+ Scania K360",
@@ -161,7 +162,8 @@
     {
       "title": "Bus SR 2 STJ SHD",
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/006_compressed.jpg",
-      "link_mods": "https://www.mediafire.com/file/me8xycddc3z4e5p/1.sr2fc_bagasi_full.bussidmod/file"
+      "link_mods": "https://www.mediafire.com/file/me8xycddc3z4e5p/1.sr2fc_bagasi_full.bussidmod/file",
+      "link_livery": ""
     },
     {
       "title": "Mod Bus ALS Scania Ceper Full anim",
@@ -172,7 +174,8 @@
     {
       "title": "Bus PO Haryanto Bussid JB3 Full strobo",
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/008_compressed.jpg",
-      "link_mods": "https://www.mediafire.com/file/g4k5a2yangs6e1j/JB3%252B_FULL_KEJUTAN_haryanto_ceper.bussidmod/file"
+      "link_mods": "https://www.mediafire.com/file/g4k5a2yangs6e1j/JB3%252B_FULL_KEJUTAN_haryanto_ceper.bussidmod/file",
+      "link_livery": ""
     },
     {
       "title": "Mod bussid rosalia indah jetbus 3",
@@ -189,7 +192,8 @@
     {
       "title": "Mod Bus Ceper Evolander tronton",
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/011_compressed.jpg",
-      "link_mods": "https://www.mediafire.com/file/i2ak75v96f5p5i2/evolander_wheeldop_ceper.bussidvehicle/file"
+      "link_mods": "https://www.mediafire.com/file/i2ak75v96f5p5i2/evolander_wheeldop_ceper.bussidvehicle/file",
+      "link_livery": ""
     },
     {
       "title": "Mod bussid Bussid Bus SR2 Racing Avenger",
@@ -284,7 +288,8 @@
     {
       "title": "Mod Eleanora Fambos Concept",
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1769.jpg",
-      "link_mods": "https://www.mediafire.com/file/3levqo2ec94fjcs/Eleanora_V1_Fam8os.bussidmod/file"
+      "link_mods": "https://www.mediafire.com/file/3levqo2ec94fjcs/Eleanora_V1_Fam8os.bussidmod/file",
+      "link_livery": ""
     },
     {
       "title": "Mod Wahyu Abadi Ceper",
@@ -307,12 +312,14 @@
     {
       "title": "Mod Canter SL Jaya",
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/319.jpg",
-      "link_mods": "https://www.mediafire.com/file/fvp9tdc13kj0p6y/CANTER_SL_JAYA_BUDESIGN_STD.rar/file"
+      "link_mods": "https://www.mediafire.com/file/fvp9tdc13kj0p6y/CANTER_SL_JAYA_BUDESIGN_STD.rar/file",
+      "link_livery": ""
     },
     {
       "title": "Bus Sekolah Cvt WSP",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Bus-Sekolah-Cvt-WSP.jpg",
-      "link_mods": "https://dl.modbussid.co.id/8ur?pt=YzIxWU5XSkhjVlJaYlhGeVJ6bHpTVFZDWlVOalFUMDlPcUs3aTE0eWZwYXNQS0F6aUE1bTh0bz0%3D"
+      "link_mods": "https://dl.modbussid.co.id/8ur?pt=YzIxWU5XSkhjVlJaYlhGeVJ6bHpTVFZDWlVOalFUMDlPcUs3aTE0eWZwYXNQS0F6aUE1bTh0bz0%3D",
+      "link_livery": ""
     },
     {
       "title": "Truck Canter Box Balap",
@@ -323,7 +330,8 @@
     {
       "title": "Truck Tua Mack Amerika",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Tua-Mack-Amerika.png",
-      "link_mods": "https://dl.modbussid.co.id/3ge"
+      "link_mods": "https://dl.modbussid.co.id/3ge",
+      "link_livery": ""
     },
     {
       "title": "Peterbilt Truck",
@@ -334,47 +342,56 @@
     {
       "title": "Monster Truck Seventy Indonesia",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
-      "link_mods": "https://dl.modbussid.co.id/6q6"
+      "link_mods": "https://dl.modbussid.co.id/6q6",
+      "link_livery": ""
     },
     {
       "title": "Mobil F1 Red Bull Racing RB15 2019",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Mobil-F1-Red-Bull-Racing-RB15-2019.jpeg",
-      "link_mods": "https://dl.modbussid.co.id/6pc"
+      "link_mods": "https://dl.modbussid.co.id/6pc",
+      "link_livery": ""
     },
     {
       "title": "Mobil Calya",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/03/Mobil-Calya.jpg",
-      "link_mods": "https://dl.modbussid.co.id/5Gh/MOD_BUSSID_Calya_-_Keira.bussidmod"
+      "link_mods": "https://dl.modbussid.co.id/5Gh/MOD_BUSSID_Calya_-_Keira.bussidmod",
+      "link_livery": ""
     },
     {
       "title": "Mobil Alphard Cvt By EAP",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Alphard-Cvt-By-EAP.jpg",
-      "link_mods": "https://dl.modbussid.co.id/IM/Alphard_Cvt_By_EAP.bussidvehicle"
+      "link_mods": "https://dl.modbussid.co.id/IM/Alphard_Cvt_By_EAP.bussidvehicle",
+      "link_livery": ""
     },
     {
       "title": "Mobil Toyota Vellfire",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Toyota-Vellfire.jpg",
-      "link_mods": "https://dl.modbussid.co.id/IL/Toyota_Vellfire.bussidvehicle"
+      "link_mods": "https://dl.modbussid.co.id/IL/Toyota_Vellfire.bussidvehicle",
+      "link_livery": ""
     },
     {
       "title": "Mobil XPander Std",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-XPander-Std.jpg",
-      "link_mods": "https://dl.modbussid.co.id/IN/XPanderStd.bussidvehicle"
+      "link_mods": "https://dl.modbussid.co.id/IN/XPanderStd.bussidvehicle",
+      "link_livery": ""
     },
     {
       "title": "Mobil Yaris 2014",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Yaris-2014.jpg",
-      "link_mods": "https://dl.modbussid.co.id/sv/yaris2014.bussidmod"
+      "link_mods": "https://dl.modbussid.co.id/sv/yaris2014.bussidmod",
+      "link_livery": ""
     },
     {
       "title": "Mobil Lamborghini Huracan",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Lamborghini-Huracan.jpg",
-      "link_mods": "https://dl.modbussid.co.id/sl/LAMBORGHINI_HURACAN.bussidmod"
+      "link_mods": "https://dl.modbussid.co.id/sl/LAMBORGHINI_HURACAN.bussidmod",
+      "link_livery": ""
     },
     {
       "title": "Mobil Honda Mobilio Facelift",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Honda-Mobilio-Facelift.jpg",
-      "link_mods": "https://dl.modbussid.co.id/sp/mobilioEfacelift.bussidmod"
+      "link_mods": "https://dl.modbussid.co.id/sp/mobilioEfacelift.bussidmod",
+      "link_livery": ""
     },
     {
       "title": "Mobil Toyota Fortuner TRD",
@@ -385,42 +402,50 @@
     {
       "title": "Mobil Mercedes-Benz S-Class",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Mercedes-Benz-S-Class.jpg",
-      "link_mods": "https://dl.modbussid.co.id/66g"
+      "link_mods": "https://dl.modbussid.co.id/66g",
+      "link_livery": ""
     },
     {
       "title": "Mobil Honda Accord",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Honda-Accord.jpg",
-      "link_mods": "https://dl.modbussid.co.id/66f"
+      "link_mods": "https://dl.modbussid.co.id/66f",
+      "link_livery": ""
     },
     {
       "title": "Mobil Toyota Camri",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Toyota-Camry.jpg",
-      "link_mods": "https://dl.modbussid.co.id/66e"
+      "link_mods": "https://dl.modbussid.co.id/66e",
+      "link_livery": ""
     },
     {
       "title": "Mobil Angkot",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Angkutan-Kota-Angkot.jpg",
-      "link_mods": "https://dl.modbussid.co.id/661"
+      "link_mods": "https://dl.modbussid.co.id/661",
+      "link_livery": ""
     },
     {
       "title": "Motor Yamaha R1M (Moge Keren)",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/10/Yamaha-R1M.jpg",
-      "link_mods": "https://dl.modbussid.co.id/3np"
+      "link_mods": "https://dl.modbussid.co.id/3np",
+      "link_livery": ""
     },
     {
       "title": "MOD Motor Vespa Super 150",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Motor-Vespa-Super-150.jpg",
-      "link_mods": "https://dl.modbussid.co.id/5u5/MOD_BUSSID_Motor_Vespa_Super_150_-_BUSSID.co.id.bussidvehicle"
+      "link_mods": "https://dl.modbussid.co.id/5u5/MOD_BUSSID_Motor_Vespa_Super_150_-_BUSSID.co.id.bussidvehicle",
+      "link_livery": ""
     },
     {
       "title": "MOD Motor Mio Drag",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Motor-Mio-Drag.jpg",
-      "link_mods": "https://dl.modbussid.co.id/5u3/Mod_BUSSID_Motor_Mio_Drag_-_BUSSID.co.id.bussidmod"
+      "link_mods": "https://dl.modbussid.co.id/5u3/Mod_BUSSID_Motor_Mio_Drag_-_BUSSID.co.id.bussidmod",
+      "link_livery": ""
     },
     {
       "title": "MOD Motor KTM Duke 150",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Motor-KTM-Duke-150.jpg",
-      "link_mods": "https://dl.modbussid.co.id/5u6/MOD_BUSSID_Motor_KTM_DUKE_150_-_BUSSID.co.id.bussidmod"
+      "link_mods": "https://dl.modbussid.co.id/5u6/MOD_BUSSID_Motor_KTM_DUKE_150_-_BUSSID.co.id.bussidmod",
+      "link_livery": ""
     },
     {
       "title": "MOD Motor Honda C70",
@@ -431,102 +456,122 @@
     {
       "title": "MOD Kawasaki Ninja 150rr Drag",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/11/Kawasaki-Ninja-150RR-Drag.jpg",
-      "link_mods": "https://dl.modbussid.co.id/3s2"
+      "link_mods": "https://dl.modbussid.co.id/3s2",
+      "link_livery": ""
     },
     {
       "title": "MOD Hoda CRF",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/11/Honda-CRF.jpg",
-      "link_mods": "https://dl.modbussid.co.id/63h"
+      "link_mods": "https://dl.modbussid.co.id/63h",
+      "link_livery": ""
     },
     {
       "title": "MOD Kawasaki H2R",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Motor-Ninja-H2R.png",
-      "link_mods": "https://dl.modbussid.co.id/5T0"
+      "link_mods": "https://dl.modbussid.co.id/5T0",
+      "link_livery": ""
     },
     {
       "title": "Motor Vespa Matic",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/02/Vespa-Matic.jpg",
-      "link_mods": "https://dl.modbussid.co.id/6e8"
+      "link_mods": "https://dl.modbussid.co.id/6e8",
+      "link_livery": ""
     },
     {
       "title": "Motor Harley Davidson",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/10/Harley-Davidson.jpg",
-      "link_mods": "https://dl.modbussid.co.id/3jj"
+      "link_mods": "https://dl.modbussid.co.id/3jj",
+      "link_livery": ""
     },
     {
       "title": "Motor Suzuki Satria FU Drag",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Motor-Suzuki-Satria-FU-Drag.png",
-      "link_mods": "https://dl.modbussid.co.id/5T1"
+      "link_mods": "https://dl.modbussid.co.id/5T1",
+      "link_livery": ""
     },
     {
       "title": "Motor Honda Astrea Legenda",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/11/Honda-Astrea-Legenda.jpg",
-      "link_mods": "https://dl.modbussid.co.id/639"
+      "link_mods": "https://dl.modbussid.co.id/639",
+      "link_livery": ""
     },
     {
       "title": "Yamaha Aerox 155cc",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/10/Yamaha-Aerox-155cc.jpg",
-      "link_mods": "https://dl.modbussid.co.id/3n0"
+      "link_mods": "https://dl.modbussid.co.id/3n0",
+      "link_livery": ""
     },
     {
       "title": "Motor Timun",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/10/Motor-Timun.jpg",
-      "link_mods": "https://dl.modbussid.co.id/3jl"
+      "link_mods": "https://dl.modbussid.co.id/3jl",
+      "link_livery": ""
     },
     {
       "title": "Helikopter TNI-AU",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/11/Helikopter-TNI-AU.jpg",
-      "link_mods": "https://dl.modbussid.co.id/3s3"
+      "link_mods": "https://dl.modbussid.co.id/3s3",
+      "link_livery": ""
     },
     {
       "title": "Tank Leopard",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/01/Tank-Leopard.jpg",
-      "link_mods": "https://dl.modbussid.co.id/3vs"
+      "link_mods": "https://dl.modbussid.co.id/3vs",
+      "link_livery": ""
     },
     {
       "title": "Pesawat Sriwijaya Air",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/11/Pesawat-Sriwijaya-Air.jpg",
-      "link_mods": "https://dl.modbussid.co.id/631"
+      "link_mods": "https://dl.modbussid.co.id/631",
+      "link_livery": ""
     },
     {
       "title": "Gerobak Motor Odading",
       "image": "https://modbussid.co.id/wp-content/uploads/2020/10/Gerobak-Motor-Odading.jpg",
-      "link_mods": "https://dl.modbussid.co.id/3jf"
+      "link_mods": "https://dl.modbussid.co.id/3jf",
+      "link_livery": ""
     },
     {
       "title": "Pesawat Airbus Beluga 4",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/01/Pesawat-Airbus-Beluga-4.jpg",
-      "link_mods": "https://dl.modbussid.co.id/6aS"
+      "link_mods": "https://dl.modbussid.co.id/6aS",
+      "link_livery": ""
     },
     {
       "title": "Sepeda Anak Roda Tiga",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/03/Sepeda-Anak-Roda-Tiga.jpg",
-      "link_mods": "https://dl.modbussid.co.id/6h2"
+      "link_mods": "https://dl.modbussid.co.id/6h2",
+      "link_livery": ""
     },
     {
       "title": "Cyborg Hoverbike",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/03/Cyborg-Hoverbike.jpg",
-      "link_mods": "https://dl.modbussid.co.id/8Sd"
+      "link_mods": "https://dl.modbussid.co.id/8Sd",
+      "link_livery": ""
     },
     {
       "title": "Kapal Induk TNI-AL",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/05/Kapal-Induk-TNI-AL.jpg",
-      "link_mods": "https://dl.modbussid.co.id/bwh"
+      "link_mods": "https://dl.modbussid.co.id/bwh",
+      "link_livery": ""
     },
     {
       "title": "Pesawat Tempur F-16 A",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Pesawat-Tempur-F-16-A.jpeg",
-      "link_mods": "https://dl.modbussid.co.id/6pb"
+      "link_mods": "https://dl.modbussid.co.id/6pb",
+      "link_livery": ""
     },
     {
       "title": "Kereta Api Arcelor Mittal ES44AC",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Kereta-Api-Arcelor-Mittal-ES44AC.jpeg",
-      "link_mods": "https://dl.modbussid.co.id/6q4"
+      "link_mods": "https://dl.modbussid.co.id/6q4",
+      "link_livery": ""
     },
     {
       "title": "Kereta Santa Claus",
       "image": "https://modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Kereta-Santa-Claus.jpeg",
-      "link_mods": "https://dl.modbussid.co.id/6q8"
+      "link_mods": "https://dl.modbussid.co.id/6q8",
+      "link_livery": ""
     }
   ]
 }
