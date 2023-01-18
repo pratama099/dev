@@ -1,0 +1,139 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-6818658951001004/1873609439",
+      "main_ads_intertitial_applovin": "09727cb1943ac883",
+      "main_native_for_admob_applovin":"ca-app-pub-6818658951001004/2767904612",
+      "backup_native_for_admob_applovin":"0a854f7f60982fe1",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"09727cb1943ac883",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+          {
+      "title": "Volvo FMX 440 Dolly Muatan Trafo",
+      "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Volvo-FMX-440.webp",
+      "link_mods": "https://www.mediafire.com/file/ieel871k5974caa/VOLVO+FMX+TRAILER+Muatan+Trafo.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Volvo FMX 440 Muatan Beton",
+      "image": "https://media.thelastsurvivors.org/2022/10/Mod-Trailer-Volv-FMX.webp",
+      "link_mods": "https://www.mediafire.com/file/ieel871k5974caa/VOLVO+FMX+TRAILER+Muatan+Trafo.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Volvo FMX 440 Head Tractor",
+      "image": "https://media.thelastsurvivors.org/2022/11/Mod-Volvo-FMX-440-Head-Tractor.webp",
+      "link_mods": "https://www.mediafire.com/file/hzr0pp3bv6prvhb/VOLVO+FMX+440+Head+Tractor.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod BUSSID Truck Volvo FH460 Euro 6",
+      "image": "https://media.thelastsurvivors.org/2022/11/Mod-Volvo-FH460-Euro-6.webp",
+      "link_mods": "https://www.mediafire.com/file/g8059pszzatpt6h/Volvo+FH460+EURO+6+by+zm+garage,ETS2,gonzalezvla.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Volvo FM Euro Timber Logistic",
+      "image": "https://media.thelastsurvivors.org/2022/11/Volvo-FM-Euro-8x4-Logistics.webp",
+      "link_mods": "https://www.mediafire.com/file/idr1g5aoovsiwv3/Volvo+FM+Euro+8x4+Logistics.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Truck Volvo FMX E5 10×4 Dumper",
+      "image": "https://media.thelastsurvivors.org/2022/11/Mod-Truck-Volvo-FMX-E5-10%C3%974-Dumper.webp",
+      "link_mods": "https://www.mediafire.com/file/yj6rm83f6lhc27b/Volvo+FMX+E5+10X4+Dumper.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Truck Volvo FH16 660 8×4 Convoy",
+      "image": "https://media.thelastsurvivors.org/2022/11/Mod-Truck-Volvo-FH16-660-8%C3%974-Convoy.webp",
+      "link_mods": "https://www.mediafire.com/file/r02gdodirbms9as/Volvo+FH16+660+8x4.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Volvo Tangki Pertamina",
+      "image": "https://media.thelastsurvivors.org/2022/11/Volvo-Tangki-Pertamina.webp",
+      "link_mods": "https://www.mediafire.com/file/tal1e6srxxeivtg/MOD+BUSSID+Truck+Volvo+Globetrottter+%E2%80%9CPertamina%E2%80%9D.bussidvehicle/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Volvo Tanpa Box Muatan Mobil Balap",
+      "image": "https://media.thelastsurvivors.org/2022/11/Truck-Volvo-Tanpa-Box-Muatan-Mobil-Balap.webp",
+      "link_mods": "https://www.mediafire.com/file/qhmptcuirvk2i20/[VOLVO+BOX+TANPA+BOX+DENGAN+MOBIL].rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod BUSSID Truck Volvo Chassis",
+      "image": "https://media.thelastsurvivors.org/2022/11/Truck-Volvo-Chassis.webp",
+      "link_mods": "https://www.mediafire.com/file/7hxxr5jqvll4fnr/VOLVO+BOX+HANYA+CHASSIS.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": " Mercy Axor Muatan Paku Bumi",
+      "image": "https://media.thelastsurvivors.org/2022/12/Mercy-Axor-Muatan-Paku-Bumi.webp",
+      "link_mods": "https://www.mediafire.com/file/mugpu76trqwcdfu/Mercy+Axor+Muatan+Paku+Bumi.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mercy Axor Muatan Genset",
+      "image": "https://media.thelastsurvivors.org/2022/12/Mercy-Axor-Muatan-Genset.webp",
+      "link_mods": "https://www.mediafire.com/file/ggprw5h8adp6z3i/Mercy+Axor+Muatan+Genset.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Truck Mercy Axor Dump",
+      "image": "https://media.thelastsurvivors.org/2022/12/Truck-Mercy-Axor-Dump.webp",
+      "link_mods": "https://www.mediafire.com/file/iw930nyio93wtmv/Truck+Mercy+Axor+Dump+(Thelastsurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Mercy Axor Dump Truck",
+      "image": "https://media.thelastsurvivors.org/2022/12/Mercy-Axor-Dump-Truck.webp",
+      "link_mods": "https://www.mediafire.com/file/n5mryf0s9r9pwms/Axor+Dump+Mercy+Truck+(Thelastsurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Axor Trailer Ex Sale",
+      "image": "https://media.thelastsurvivors.org/2022/12/Truck-Axor-Trailer-Ex-Sale.webp",
+      "link_mods": "https://www.mediafire.com/file/anp5b6mkmev63x8/Truck+Axor+Trailer+Ex+Sale.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Axor Trailer Engkel Long Ex Sale",
+      "image": "https://media.thelastsurvivors.org/2022/12/Truck-Axor-Trailer-Engkel-Long.webp",
+      "link_mods": "https://www.mediafire.com/file/38t1qja9mc2mkic/Truck+Axor+Trailer+Engkel+Long.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Truk Mercedes-Benz Axor 4028 T",
+      "image": "https://media.thelastsurvivors.org/2022/12/Truk-Mercedes-Benz-Axor-4028-T.webp",
+      "link_mods": "https://www.mediafire.com/file/whkbgla6h1y4yf4/Truk+Mercedes-Benz+Axor+4028+T.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mercedes Benz Racing Truk 2015",
+      "image": "https://media.thelastsurvivors.org/2022/12/Mercedes-Benz-Racing-Truk-2015.webp",
+      "link_mods": "https://www.mediafire.com/file/whkbgla6h1y4yf4/Truk+Mercedes-Benz+Axor+4028+T.bussidmod/file",
+      "link_livery": ""
+    }
+  ]
+}
