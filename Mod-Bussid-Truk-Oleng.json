@@ -1,0 +1,161 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-6818658951001004/7014271387",
+      "main_ads_intertitial_applovin": "ddc563467b406c55",
+      "main_native_for_admob_applovin":"ca-app-pub-6818658951001004/1929449755",
+      "backup_native_for_admob_applovin":"0a854f7f60982fe1",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"ddc563467b406c55",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+          {
+      "title": "Truck Toyota Dyna Terpal Segitiga",
+      "image": "https://media.thelastsurvivors.org/2022/12/Toyota-Dyna-Terpal-Segitiga.webp",
+      "link_mods": "https://www.mediafire.com/file/mkfggvka5bblkzm/Toyota+Dyna+Terpal+Segitiga+(Thelastsurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Ragasa Herex Cabe Terpal Kotak",
+      "image": "https://media.thelastsurvivors.org/2022/12/Ragasa-Herex-Cabe-Terpal-Kotak.webp",
+      "link_mods": "https://www.mediafire.com/file/nhoxwlfd4fd67xb/Ragasa+Herex+Cabe+Terpal+Kotak+(Thelastsurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Canter Custom Cabe Balap",
+      "image": "https://media.thelastsurvivors.org/2022/12/Canter-Custom-Cabe-Balap.webp",
+      "link_mods": "https://www.mediafire.com/file/16gzzfxs9kzl1ej/TRONDOL+CUSTOM+(Thelastsurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Canter N8 Buruh Cabe",
+      "image": "https://media.thelastsurvivors.org/2022/12/Canter-N8-Buruh-Cabe.webp",
+      "link_mods": "https://www.mediafire.com/file/wzbaltrycmauv21/Buruh+Lombok+(Thelastsurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Truk Canter Trondol Cabe",
+      "image": "https://media.thelastsurvivors.org/2022/12/Truk-Canter-Trondol-Cabe.webp",
+      "link_mods": "https://www.mediafire.com/file/fexqjsq6bldzy43/One+By+One+Trondol+(Thelastsurvivors.org).bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Truk Canter Custom 12",
+      "image": "https://media.thelastsurvivors.org/2022/12/Truk-Canter-Custom-12.webp",
+      "link_mods": "https://www.mediafire.com/file/jyyh8skq9rnj5dv/CANTER+CUSTOM+12+BUDESIGN+(Thelastsurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Canter One by One Angkut Cabe",
+      "image": "https://media.thelastsurvivors.org/2022/12/Canter-One-by-One-Angkut-Cabe.webp",
+      "link_mods": "https://www.mediafire.com/file/8rpoo7z09d8m4wq/One+By+One+(Thelastsurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Canter Satrio Kembar Full Strobo",
+      "image": "https://media.thelastsurvivors.org/2022/12/Canter-Satrio-Kembar-Full-Strobo.webp",
+      "link_mods": "https://www.mediafire.com/file/6p8cidag0ij7lrf/eNJe+(Thelastsiurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Truck Canter Herex Stenlisan",
+      "image": "https://media.thelastsurvivors.org/2022/12/Canter-Herex-Stenlisan.webp",
+      "link_mods": "https://www.mediafire.com/file/z9b153g0y7fojzc/CANTER+HEREX+STENLISAN+BUDESIGN+(Thelastsurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Truck Cabe Balap Canter Sam Darmon",
+      "image": "https://media.thelastsurvivors.org/2022/12/Cabe-Balap-Canter-Sam-Darmon.webp",
+      "link_mods": "https://www.mediafire.com/file/62z58nliij3el5t/Canter+Sam+Darmon+(Thelastsurvivors.org).rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Canter Long Chassis Cabe Balap",
+      "image": "https://media.thelastsurvivors.org/2022/12/Canter-Long-Chassis-Cabe-Balap.webp",
+      "link_livery": ""
+    },
+    {
+      "title": "Monster Truck Seventy Indonesia",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
+      "link_mods": "https://dl.modbussid.co.id/6q6",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Canter Muatan Sound System Riswanda",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-Canter-Muatan-Sound-System-Riswanda.jpg",
+      "link_mods": "https://www.mediafire.com/file/35ruz0rcd09kv2y/Mod_no_pw.7z/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck HINO 500 Angkut Sound System",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-HINO-500-Angkut-Sound-System.jpg",
+      "link_mods": "https://www.mediafire.com/file/uth8pmkyxuxyasi/Truck_Hino_500_Angkut_Sound.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Thong Thong Klek Sound System",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-Thong-Thong-Klek-Sound-System.jpg",
+      "link_mods": "https://www.mediafire.com/file/vs9mof9p9345ot9/Truk_Thong_Thong_Klek_Varian_DJ_Sound_System_by_Andreas_R35.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Canter TE Sound",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-Canter-TE-Sound.jpg",
+      "link_mods": "https://www.mediafire.com/file/zfy06npcd8hfhjm/CANTER_TE_SOUND%255BMOD_BUSSID%255D.bussidvehicle/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Canter Angkut Sound",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-Canter-Angkut-Sound.jpg",
+      "link_mods": "https://www.mediafire.com/file/gc5glo1ot72p6j1/MOD_CANTER_ANKUT_SOUND_%2528modbussid%2529.bussidvehicle/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Canter Muatan Sound System LED",
+      "image": "https://www.ulingame.com/wp-content/uploads/Truck-Canter-Muatan-Sound-System-LED.jpg",
+      "link_mods": "https://www.mediafire.com/file/eevu0edcziy0e6b/Truck_Muatan_Sound_System_LED%252B%252B_by_Andreas_R35_V2.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "HINO 500 NG HSD ft Andreas 35",
+      "image": "https://www.ulingame.com/wp-content/uploads/HINO-500-NG-HSD-ft-Andreas-35.jpg",
+      "link_mods": "https://www.mediafire.com/file/59qs6qshey1s0u5/Hino_500_NG_HSD_ft_Andreas_R35_Strom_Edtion.rar/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Bussid Truck Canter Oleng",
+      "image": "https://arbaswedan.id/wp-content/uploads/2022/11/Download-Mod-Bussid-Truck-Canter-Oleng-768x432.jpg",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Canter Terpal Segitiga",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-Terpal-Segitiga.jpg",
+      "link_mods": "https://www.mediafire.com/file/zfplzeixi830dqf/Mod_Truck_Canter_Terpal_Segitiga.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/t9xmcq29lnceh0d/Mod_Truck_Canter_Terpal_Segitiga.png"
+    },
+    {
+      "title": "Truk Canter Oleng",
+      "image": "https://gsmtrik.com/wp-content/uploads/2022/07/Truk-Canter-Oleng.jpg",
+      "link_mods": "https://www.mediafire.com/file/iaoh8fp1quhm73q/Mod_Truk_Canter_Oleng-Gsmtrik.bussidvehicle/file",
+      "link_livery": "https://www.mediafire.com/view/cpye5ctst88da90/Livery_Truk_Canter_Oleng-Gsmtrik.png"
+    }
+  ]
+}
