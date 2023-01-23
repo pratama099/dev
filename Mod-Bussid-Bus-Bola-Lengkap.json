@@ -1,0 +1,169 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63009781110",
+      "main_ads_intertitial":"ca-app-pub-6818658951001004/6424218212",
+      "main_ads_intertitial_applovin": "66b1e8511869f916",
+      "main_native_for_admob_applovin":"ca-app-pub-6818658951001004/3395278933",
+      "backup_native_for_admob_applovin":"0a854f7f60982fe1",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"66b1e8511869f916",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+          {
+      "title": "JB3+ Hino RK Arema",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/10/2828.jpg",
+      "link_mods": "https://www.mediafire.com/file/4m3ewex9nbif2ww/AREMA+FC.zip/file",
+      "link_livery": ""
+    },
+    {
+      "title": "SR2 Hino Persija",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/10/2829.jpg",
+      "link_mods": "https://www.mediafire.com/download/ghtnvm0foxyw89d",
+      "link_livery": ""
+    },
+    {
+      "title": "Dream Coach Tronton Persib",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/10/2830.jpg",
+      "link_mods": "https://www.mediafire.com/download/9790okc5t5o209f",
+      "link_livery": ""
+    },
+    {
+      "title": "SR2 K410 Bali United",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/10/2831.jpg",
+      "link_mods": "https://drive.google.com/file/d/1PApwUU6LbURrlsBbvFvfUy7ElFRLnul2/view",
+      "link_livery": ""
+    },{
+    {
+      "title": "Jetbus 3+ UHD Manchester United",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/10/2832.jpg",
+      "link_mods": "https://kuotabiasa.com/5C5?pt=WmtKb1dqa3pZMVVyZG5BMGFuUndNa3BxYTJONVp6MDlPa3Q0TEovWTNvdldvOURLbTFBTDRKUT0%3D",
+      "link_livery": "https://drive.google.com/file/d/1OVa8lrApU8POEKqOSqkCdMEsKBZlGpkq/view"
+    },
+    {
+      "title": "BUSSID Arema malang Jernih SHD",
+      "image": "https://i0.wp.com/emakgaming.com/wp-content/uploads/2020/04/Livery-BUSSID-Arema-Malang-SHD-2020-560x420.jpg",
+      "link_mods": "http://www.mediafire.com/file/zg48qpu4druurki/JB3_SCANIA_SHD_RSM_MOD_-_EMAKGAMING.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/zg5tfu07fp6gh6x/Livery_BUSSID_Arema_Malang_SHD_2020.png"
+    },
+    {
+      "title": "BUSSID PERSIB XHD PRIME",
+      "image": "https://i0.wp.com/emakgaming.com/wp-content/uploads/2020/04/Livery-BUSSID-PERSIB-XHD-PRIME-560x420.jpg",
+      "link_mods": "https://drive.google.com/file/d/1VIoRB3_QYqAqeoB5GvR6D89PqCbZzM6f/view",
+      "link_livery": "https://www.mediafire.com/view/d7cji9uz05w75sa/Livery_BUSSID_PERSIB_XHD_PRIME.png"
+    },
+    {
+      "title": "BUSSID PERSEBAYA JB2 SHD",
+      "image": "https://i0.wp.com/emakgaming.com/wp-content/uploads/2020/04/LIVERY-BUSSID-JB2-SHD-PERSEBAYA-1.jpg",
+      "link_mods": "https://drive.google.com/file/d/1gzzZFhoFGTEZbirStz_xA89Wx-1v5pfR/view",
+      "link_livery": "http://www.mediafire.com/view/r7ej2a9jzmsbbyv/LIVERY%20BUSSID%20JB2%20SHD%20PERSEBAYA.png"
+    },
+    {
+      "title": "BUSSID Timnas Indonesia SHD",
+      "image": "https://i0.wp.com/emakgaming.com/wp-content/uploads/2020/04/Livery-BUSSID-TIMNAS-Indonesia-SHD-560x420.jpg",
+      "link_mods": "http://www.mediafire.com/file/zg48qpu4druurki/JB3_SCANIA_SHD_RSM_MOD_-_EMAKGAMING.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/m3dsi2fx2nvp05m/Livery_BUSSID_TIMNAS_Indonesia_SHD.png"
+    },
+    {
+      "title": "BUSSID Sriwijaya FC XHD",
+      "image": "https://i0.wp.com/emakgaming.com/wp-content/uploads/2020/04/Livery-BUSSID-Sriwijaya-FC-XHD-560x420.jpg",
+      "link_mods": "https://www.mediafire.com/file/feqmgxf7hwf5yux/UMP_Varian_2_-_SR2_TRONTON_K410.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/mtweccbicy8oz22/Livery_BUSSID_Sriwijaya_FC_XHD.png"
+    },
+    {
+      "title": "BUSSID Madura United XHD",
+      "image": "https://i0.wp.com/emakgaming.com/wp-content/uploads/2020/04/Livery-BUSSID-madura-united-XHD-560x420.jpg",
+      "link_mods": "http://www.mediafire.com/file/zg48qpu4druurki/JB3_SCANIA_SHD_RSM_MOD_-_EMAKGAMING.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/mtweccbicy8oz22/Livery_BUSSID_Sriwijaya_FC_XHD.png"
+    },
+    {
+      "title": "Mod JB3+ SHD Hino RK",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1625.jpg",
+      "link_mods": "https://www.mediafire.com/file/z5o6k8e4cg0tl4d/JB3%252B_SHD_HINO_RK.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/lxmtb2sqosixyqn/JB3_HINO_PINTU_TENGAH_-_STJ_VIOLA.png"
+    },
+    {
+      "title": "Mod JB3+ SHD Non Facelift",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1629.jpg",
+      "link_mods": "https://www.mediafire.com/file/9vv5k3cdfsxc25y/JB3%252B_SHD_NON_FACELIFT.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/rxctdcmmxjoyb2h/Libery_Black_pink_Hino_As__Fm_by_Nb_livery_%2526_Cah_Ndoreng_%25281%2529.png"
+    },
+    {
+      "title": "Mod Jetbus 3+ Tronton Volvo B11R",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1630.jpg",
+      "link_mods": "https://www.mediafire.com/file/it9l5288rhz77xz/JB3%252B_TRONTON_VOLVO_B11R.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/m06o3ve66fekaue/STJ_ARVOOT.png"
+    },
+    {
+      "title": "Mod Jetbus 3+ Ultra High Decker",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1631.jpg",
+      "link_mods": "https://www.mediafire.com/file/lffqbgt6vd1xxrx/JB3%252B_UHD.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/frotgvk0l57qs7v/RUBYA_098_BONEKA_NEW_STIKER_JB3_UH_MH_BY_GARASITUBE.png"
+    },
+    {
+      "title": "Mod Ultra High Decker",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1632.jpg",
+      "link_mods": "https://www.mediafire.com/file/n0df5h0r4dpnxy9/UHD.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/vml9dx4zy19whmb/STJ_Anno_UHD_Mercy_Blahbloh.png"
+    },
+    {
+      "title": "Mod SR2 Xtra High Decker",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1633.jpg",
+      "link_mods": "https://www.mediafire.com/file/zadcjvxbcykddzu/SR2_XHD.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/qajaixxp83v13g8/STJ_MAURO_SR2_by_Hanafi_Hardiyan.png"
+    },
+    {
+      "title": "Mod SR2 XHD Tronton K410",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1634.jpg",
+      "link_mods": "https://www.mediafire.com/file/feqmgxf7hwf5yux/UMP_Varian_2_-_SR2_TRONTON_K410.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/vc0u0166veswx1a/DRAKA_STJ_NEW_STROBO_ALCOA_SR2_XHD_PRIME_TRONTON_UMP_BY_GARASI_TUBE.png"
+    },
+    {
+      "title": "Mod SR2 XHD Prime Tronton",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1635-768x355.jpg",
+      "link_mods": "https://www.mediafire.com/file/ggh2ksictg6jh93/%255B_2F_%255D_SR2_XHD_Prime_TRONTON_PAKE_WINGLET_BY_CORELAV_VIVA_VARIAN_SCANIA.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/kouj70vb4nuyv1s/DRAKA_STJ_NEW_STIKER_STROBO_SR2_XHD_PRIME_TRONTON_CORELAV_VIVA_BY_GARASI_TUBE.png"
+    },
+    {
+      "title": "Mod SR2 XDD RSM Winglet",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1636.jpg",
+      "link_mods": "https://www.mediafire.com/file/52lxe2lntmi3ko6/MOD_SR2_XDD_RSM_WINGLET.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/mtqj145lyb0pezn/AG-_stj_sr2_xdd_rsm_by_Andesta.png"
+    },
+    {
+      "title": "Mod SR2 XDD Ellbrush",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/320.jpg",
+      "link_mods": "https://www.mediafire.com/file/52lxe2lntmi3ko6/MOD_SR2_XDD_RSM_WINGLET.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/n8xn8c4a55x7vkj/AG-Xdd_rsm_nm_stj_By_Andesta.png"
+    },
+    {
+      "title": "Mod bussid ceper SR2 Hitam kuning geometris",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/020_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/icceii58a4vz39g/sr2_black_list_kuning.png"
+    },
+    {
+      "title": "Bus Keren Merah Hitam Hijau ceper SR2",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/019_compressed.jpg",
+      "link_mods": "https://www.mediafire.com/file/cfdl6jekh1fg8zr/sr2_racing_8_livery.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/e3oipuu09fxdvh8/hitam_merah_hijau.png"
+    }
+  ]
+}
