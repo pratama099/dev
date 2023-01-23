@@ -1,0 +1,211 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63009781111",
+      "main_ads_intertitial":"ca-app-pub-6818658951001004/4919564855",
+      "main_ads_intertitial_applovin": "eeb031417499e21c",
+      "main_native_for_admob_applovin":"ca-app-pub-6818658951001004/9649131449",
+      "backup_native_for_admob_applovin":"0a854f7f60982fe1",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"eeb031417499e21c",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+          {
+      "title": "Mobil Mahindra Bolero",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/03/Mahindra-Bolero.jpg",
+      "link_mods": "https://dl.modbussid.co.id/8S4?pt=SzAxcVNFcHhNVzlJWkV0NmQxWTNPREozU0hSa1FUMDlPcG1iNjNoVWNGdTYxSEVDYmp0ZG4wST0%3D",
+	  "link_livery": ""
+	},
+    {
+      "title": "Mobil Mahindra Thar",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/08/MOD-BUSSID-Mobil-Mahindra-Thar.jpg",
+      "link_mods": "https://dl.modbussid.co.id/6n2",
+      "link_livery": "https://dl.modbussid.co.id/6ij"
+    },
+    {
+      "title": "Mobil Mahindra Bolero",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/03/Mahindra-Bolero.jpg",
+      "link_mods": "https://dl.modbussid.co.id/8S4",
+      "link_livery": ""
+    },
+    {
+      "title": "Avanza Ceper Chamber",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/1.-Download-Mod-Bussid-Avanza-Ceper-Chamber.jpg",
+      "link_mods": "https://www.mediafire.com/file/h3lcruq8qi89v85/Mod_Avanza_Chamber.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/iusgwcolzsgpsw3/Livery_Avanza_Chamber.png"
+    },
+    {
+      "title": "Avanza G Grab Car I",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/2.-Download-Mod-Bussid-Avanza-G-Grab-Car-I.jpg",
+      "link_mods": "https://www.mediafire.com/file/epwn2hhusuom83r/TOYOTA_AVANZA_1.5_G_CRYS_2016.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/lrif5sn3fjs0onr/LIVERY_GRAB_AVANZA_HIJAU_PUTIH_BEMPER_HIJAU.jpg"
+    },
+    {
+      "title": "Avanza G Grab Car II",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/3.-Download-Mod-Bussid-Avanza-G-Grab-Car-II.jpg",
+      "link_mods": "https://www.mediafire.com/file/epwn2hhusuom83r/TOYOTA_AVANZA_1.5_G_CRYS_2016.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/g3bfye79inehkcn/LIVERY_GRAB_AVANZA_HIJAU_PUTIH_BEMPER_PUTIH.jpg"
+    },
+    {
+      "title": "Avanza Racing G Series Microsoft",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/4.-Avanza-Racing-G-Series-Microsoft.jpg",
+      "link_mods": "https://www.mediafire.com/file/2uvgcml5qu4gukc/Avanza_G_Bintang_Codit_DGMods.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Avanza E Listrik Pintar PLN",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/5.-Avanza-E-Listrik-Pintar-PLN.jpg",
+      "link_mods": "https://www.mediafire.com/file/vzgtcwrkp72ch7e/TOYOTA_AVANZA_TYPE_E_2016.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/nqxt8r10s9kw2l6/Livery_Avanza_ListrikPintar_PLN-ANDSTYA_Channel.png"
+    },
+    {
+      "title": " Toyota Avanza New Xenia",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/6.-Toyota-Avanza-New-Xenia.jpg",
+      "link_mods": "https://www.mediafire.com/file/b6oqg80nbd9gv5r/newavanza.bussidvehicle/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Toyota Avanza S Series",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/7.-Toyota-Avanza-S-Series.jpg",
+      "link_mods": "https://www.mediafire.com/file/b5e4g68whx0exc9/Update_Avanza_Gen_1_MAH_Channel.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Toyota Avanza E 2016",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/8.-Toyota-Avanza-E-2016.jpg",
+      "link_mods": "https://www.mediafire.com/file/vzgtcwrkp72ch7e/TOYOTA_AVANZA_TYPE_E_2016.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Toyota Avanza Seri E Polda Metro Jaya",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/9.-Toyota-Avanza-Seri-E-Polda-Metro-Jaya.jpg",
+      "link_mods": "https://www.mediafire.com/file/vzgtcwrkp72ch7e/TOYOTA_AVANZA_TYPE_E_2016.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/w5zm78q5qd16j0o/Avanza_E_POLDA_METRO_JAYA.png"
+    },
+    {
+      "title": "Toyota Avanza Seri G Grab Car",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/10.-Toyota-Avanza-Seri-G-Grab-Car.jpg",
+      "link_mods": "https://www.mediafire.com/view/6502sagyjzco6pd/LIVERY_GRAB_AVANZA_FULL_HIJAU.jpg",
+      "link_livery": ""
+    },
+    {
+      "title": " Toyota Avanza Type G",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/11.-Toyota-Avanza-Type-G.jpg",
+      "link_mods": "https://www.mediafire.com/file/rpynqbeafbtbeq6/avanza_g.bussidmod/file",
+      "link_livery": "https://www.mediafire.com/view/bgb4qi06xbes35l/Livery_untuk_semua_mobil_avanza.png"
+    },
+    {
+      "title": "Toyota Avanza Veloz",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/12.-Toyota-Avanza-Veloz.jpg",
+      "link_mods": "https://www.mediafire.com/file/49h8puc5tcwyad0/VELOZ.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Bussid Avanza Rocket Bunny",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/13.-Mod-Bussid-Avanza-Rocket-Bunny.jpg",
+      "link_mods": "https://file.modbussid.co.id/8TS",
+      "link_livery": ""
+    },
+    {
+      "title": "Download Mod Bussid Avanza Old",
+      "image": "https://gameitu.com/wp-content/uploads/2022/04/14.-Download-Mod-Bussid-Avanza-Old.jpg",
+      "link_mods": "https://file.modbussid.co.id/63b",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil F1 Red Bull Racing RB15 2019",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Mobil-F1-Red-Bull-Racing-RB15-2019.jpeg",
+      "link_mods": "https://dl.modbussid.co.id/6pc",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil Calya",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/03/Mobil-Calya.jpg",
+      "link_mods": "https://dl.modbussid.co.id/5Gh/MOD_BUSSID_Calya_-_Keira.bussidmod",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil Alphard Cvt By EAP",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Alphard-Cvt-By-EAP.jpg",
+      "link_mods": "https://dl.modbussid.co.id/IM/Alphard_Cvt_By_EAP.bussidvehicle",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil Toyota Vellfire",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Toyota-Vellfire.jpg",
+      "link_mods": "https://dl.modbussid.co.id/IL/Toyota_Vellfire.bussidvehicle",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil XPander Std",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-XPander-Std.jpg",
+      "link_mods": "https://dl.modbussid.co.id/IN/XPanderStd.bussidvehicle",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil Yaris 2014",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Yaris-2014.jpg",
+      "link_mods": "https://dl.modbussid.co.id/sv/yaris2014.bussidmod",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil Lamborghini Huracan",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Lamborghini-Huracan.jpg",
+      "link_mods": "https://dl.modbussid.co.id/sl/LAMBORGHINI_HURACAN.bussidmod",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil Honda Mobilio Facelift",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-Mobil-Honda-Mobilio-Facelift.jpg",
+      "link_mods": "https://dl.modbussid.co.id/sp/mobilioEfacelift.bussidmod",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil Toyota Fortuner TRD",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Toyota-Fortuner-TRD.jpg",
+      "link_mods": "https://dl.modbussid.co.id/66h",
+      "link_livery": "https://dl.modbussid.co.id/3v0"
+    },
+    {
+      "title": "Mobil Mercedes-Benz S-Class",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Mercedes-Benz-S-Class.jpg",
+      "link_mods": "https://dl.modbussid.co.id/66g",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil Honda Accord",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Honda-Accord.jpg",
+      "link_mods": "https://dl.modbussid.co.id/66f",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil Toyota Camri",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Toyota-Camry.jpg",
+      "link_mods": "https://dl.modbussid.co.id/66e",
+      "link_livery": ""
+    },
+    {
+      "title": "Mobil Angkot",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Angkutan-Kota-Angkot.jpg",
+      "link_mods": "https://dl.modbussid.co.id/661",
+      "link_livery": ""
+    }
+  ]
+}
