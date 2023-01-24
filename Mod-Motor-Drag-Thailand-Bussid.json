@@ -1,0 +1,175 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63009781111",
+      "main_ads_intertitial":"ca-app-pub-6818658951001004/1499194596",
+      "main_ads_intertitial_applovin": "1942633a0883b954",
+      "main_native_for_admob_applovin":"ca-app-pub-6818658951001004/4424740838",
+      "backup_native_for_admob_applovin":"0a854f7f60982fe1",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"1942633a0883b954",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+          {
+      "title": "Mod Motor Drag Tiger CJDW",
+      "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185653_3129-1024x576.jpg.webp",
+      "link_mods": "https://www.mediafire.com/file/ovjpmpjhf0yzvsw/Bussid_Tiger_CJDW.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Motor Drag Tiger CJDW 2",
+      "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2980-1024x575.jpg.webp",
+      "link_mods": "https://www.mediafire.com/file/krhvmtz1rnx5svz/mod_bussid_tiger_cjdw_new_concept.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Motor Drag CVT",
+      "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2821-1024x575.jpg.webp",
+      "link_mods": "https://www.mediafire.com/file/64xktc4zbwj3bxt/HEREX_GL_MILKITA_CVT_BY_REGA_X_GAMING_MOD_BY_IAM_PROJECT_.bussidmod/file",
+	  "link_livery": ""
+	},
+    {
+      "title": "Mod Motor Drag CJDW Gank",
+      "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2706-1024x576.jpg.webp",
+      "link_mods": "https://www.mediafire.com/file/64xktc4zbwj3bxt/HEREX_GL_MILKITA_CVT_BY_REGA_X_GAMING_MOD_BY_IAM_PROJECT_.bussidmod/file",
+	  "link_livery": ""
+    },
+    {
+      "title": "Mod Motor Drag RX King",
+      "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2596-1024x576.jpg.webp",
+      "link_mods": "https://www.mediafire.com/file/1i8ysyovvodtp1m/RX_KING_STYLE_BANDUNG.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Motor Drag MP Arganta",
+      "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2454-1024x575.jpg.webp",
+      "link_mods": "https://www.mediafire.com/file/s3qjwvaqokaevuk/MP_ARGANTA.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Motor Drag MP Pilotter",
+      "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2261-1024x575.jpg.webp",
+      "link_mods": "https://www.mediafire.com/file/tsm57ewrr8ojc93/MP_PILOTTER_REGA_X_ILHAM.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Motor Drag CVT Barbara",
+      "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185652_2099-1024x575.jpg.webp",
+      "link_mods": "https://www.mediafire.com/file/835vegbkfxcfjl5/Barbara_Sapu_Angin_cvt_by_rega_x_gaming.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Motor Drag Herex Barbara",
+      "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185651_1942-1024x575.jpg.webp",
+      "link_mods": "https://www.mediafire.com/file/jwqiqjx9i8tz1wb/herex_barbara_by_rega_x_gaming.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Motor Drag Ninja 150 RR",
+      "image": "https://www.mediarale.com/wp-content/uploads/2022/09/Compress_20220917_185651_1792-1024x574.jpg.webp",
+      "link_mods": "https://www.mediafire.com/file/9t6ob4niqux9h3v/MOD_NINJA_150_RR_DRAG_BUSSID_FREE_BY_AZUMODS.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Bus Simulator Indonesia Moge R1M",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/92.jpg",
+      "link_mods": "https://www.mediafire.com/file/k2stxce6l70zoi5/Yamaha_R1M_V3_Ban_Cacing_Standar_by_AzuMods.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Bussid Moge Ninja H2R Full Modif",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/94.jpg",
+      "link_mods": "https://www.mediafire.com/file/i52joxwsksxwnk6/MOD_BUSSID_Motor_Ninja_H2R_-_Javastech.com.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod bussid Motor Drag Ninja RR full modif",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/014.jpg",
+      "link_mods": "https://www.mediafire.com/file/30x0vrxin6z69fl/MOD_NINJA_150_RR_DRAG_BUSSID_FREE_BY_AZUMODS.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Beat terbaru original bisa buka jok",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/015.jpg",
+      "link_mods": "https://www.mediafire.com/file/l1briehja6oyj2k/MOD_HONDA_BEAT_2020_BUSSID_FREE_BY_AZUMODS.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Bussid Vario pink ceper",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/016.jpg",
+      "link_mods": "https://www.mediafire.com/file/uqhy3ltt5oldrc9/MOD_MOTOR__vario_%282%29.bussidvehicle/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Bussid Moge BMW S1000RR Keren",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/96.jpg",
+      "link_mods": "https://www.mediafire.com/file/e709a8tzgbeapvk/MOD+MOTOR+BMW+S1000RR+BUSSID+BY+AZUMODS.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Vespa Matic Fakboi Bussid",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/102.jpg",
+      "link_mods": "https://www.mediafire.com/file/hnbmh2eg6wrjeps/Vespa_Matic_V1.1_Cewek_Speed_Kencang_by_AzuMods.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Mio Drag keren full modif",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/106.jpg",
+      "link_mods": "https://www.mediafire.com/file/yboc4f6ekxz4gwf/3_Mod_Honda_Beat_by_Azumods.bussidvehicle/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Bussid Moge Honda CBR600RR",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/108.jpg",
+      "link_mods": "https://www.mediafire.com/file/at4idxk1k7t68as/MOD_BUSSID_Motor_CBR600RR_-_BUSSID.co.id.bussidvehicle/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Satria Fu 150 Full Modif Full Spek",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/113.jpg",
+      "link_mods": "https://drive.google.com/file/d/1BMT5YFs8ZzdhJS4OsATrtq3BZMH_MIVu/view",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Yamaha Aerox NGAB",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/117.jpg",
+      "link_mods": "https://www.mediafire.com/file/13esar3jksvnwqf/Yamaha_Aerox_155cc_Standar_by_AzuMods.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod Moge Ninja ZX-6R Siap Sunmori",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/115.jpg",
+      "link_mods": "https://www.mediafire.com/file/or1t0vb8fqsksnc/Kawasaki_Ninja_ZX-6R_V1_Velg_Standar_by_AzuMods.bussidmod/file",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod bussid Motor Drag Beat Hobi Kami Mahal",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/118.jpg",
+      "link_mods": "https://drive.google.com/file/d/1CwdQAphnuo_DDcqbktcW-ox5Ts1yJFuO/view",
+      "link_livery": ""
+    },
+    {
+      "title": "Mod bussid motor RX king",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/01.jpg",
+      "link_mods": "https://drive.google.com/file/d/1ZQa0-nCvkXupKDSXHu03-JuD6cCjAUb6/view",
+      "link_livery": ""
+    }
+  ]
+}
